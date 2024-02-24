@@ -42,6 +42,15 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+### Training Data Set -> Buying Table
+![image](https://github.com/muppirgautham/WDM_EXP2/assets/94810884/76bf0fce-900e-430b-b1da-57136eb4f78d)
+
+### Training Data Set -> Banking Table
+![image](https://github.com/muppirgautham/WDM_EXP2/assets/94810884/26c6d690-ff1a-4fd1-a15c-4afa884d3005)
+
+### Training Data Set -> Employee Table
+![image](https://github.com/muppirgautham/WDM_EXP2/assets/94810884/ae4a911a-d0c9-4ce4-a5c5-1fed5b8d317c)
+
 
 
 ### Procedure for Association Rules:
@@ -52,6 +61,17 @@ G40,high,yes,excellent,yes
 5) Select Choose button and then click on Apriori Algorithm.
 6) Click on Start button and output will be displayed on the right side of the window.
 
-### OUTPUT:
+## OUTPUT:
+### Buying Table:
+![image](https://github.com/muppirgautham/WDM_EXP2/assets/94810884/5919d6a2-d48a-4c1d-90f1-56119da79d8a)
+
+### Banking Table:
+![image](https://github.com/muppirgautham/WDM_EXP2/assets/94810884/5838bb18-392c-4ca6-b46b-4e92abbea7a3)
+
+### Employee Table:
+![image](https://github.com/muppirgautham/WDM_EXP2/assets/94810884/9a9d99d1-4078-4cec-b26c-afedd0dd46ca)
 
 ### RESULT: 
+Thus this program has been successfully executed.
+
+
